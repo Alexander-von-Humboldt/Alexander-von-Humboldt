@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Command Line Tutorial Complete! (Voit)
+title: Ausstellungsplakat
 image: /img/Project_pictures.jpg/
 ---
 
 
-![](../img/Projekt_pictures/Humboldt_Plakat.jpg )
+![](../img/Projekt_pictures/Humboldt_Plakat.jpg)
