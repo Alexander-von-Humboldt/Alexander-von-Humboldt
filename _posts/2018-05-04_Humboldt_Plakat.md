@@ -5,4 +5,4 @@ image: /img/Project_pictures.jpg/
 ---
 
 
-![](../img/Project_pictures/Humboldt_Plakat.jpg)
+![](../img/Projekt_pictures/Humboldt_Plakat.jpg )
