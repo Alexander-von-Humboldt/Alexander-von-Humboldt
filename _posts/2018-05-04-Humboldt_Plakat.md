@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ausstellungsplakat
-image: /img/Project_pictures.jpg/
+image: /img/Projekt_pictures/"Humboldt (1)".jpg/
 ---
 
 
