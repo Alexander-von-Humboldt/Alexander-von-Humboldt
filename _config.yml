@@ -151,6 +151,7 @@ title-separator: "-"
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Vienna"
+future: true
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
