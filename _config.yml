@@ -56,14 +56,14 @@ avatar: "img/Projekt_pictures/Humboldt_avatar.JPG"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#0dc6c6"
+navbar-col: "#2f5597"
 navbar-text-col: "#404040"
-navbar-children-col: "#0dc6c6"
+navbar-children-col: "#2f5597"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#0dc6c6"
-footer-text-col: "#777777"
+footer-col: "#2f5597"
+footer-text-col: "#424040"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
