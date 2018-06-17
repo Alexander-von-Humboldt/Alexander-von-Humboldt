@@ -2,7 +2,7 @@
 layout: post
 title: Protokoll der 2. Sitzung 
 subtitle: Finale Entscheidung Themenfindung und Aufgabenverteilung
-image: /img/lukas_voit/Profil_Voit.JPG
+image: /img/Projekt_pictures/Profil_Voit.JPG
 ---
 **Medienproduktion und Medienvermarktung (2. Sitzung am 21. März 2018 )**
 
