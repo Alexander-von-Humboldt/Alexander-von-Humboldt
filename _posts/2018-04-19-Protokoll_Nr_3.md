@@ -18,11 +18,11 @@ tags: [Humboldt, Ausstellung]
 
 2. **Aufgabenaufteilung bis zur nächsten Sitzung:**
 
-  - Video-Trailer für die Ausstellung (Peter Nestepny)
-  - Muster-Plakat/Flyer für die Ausstellung (Anna-Lena Stabentheiner)
-  - Gestaltung der Muster-Homepage (Lukas Voit)
-  - Grundriss-Entwurf der Ausstellung (Malte Wulf)
-  - Beispielausstellungstafel (Bernard Huber)
+  - Video-Trailer für die Ausstellung (Peter)
+  - Muster-Plakat/Flyer für die Ausstellung (Anna-Lena)
+  - Gestaltung der Muster-Homepage (Lukas)
+  - Grundriss-Entwurf der Ausstellung (Malte)
+  - Beispielausstellungstafel (Bernard)
 
 
 

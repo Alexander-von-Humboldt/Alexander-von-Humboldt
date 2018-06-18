@@ -9,11 +9,11 @@ image: /img/Projekt_pictures/Humboldt_avatar.JPG
 1.	**Besprechung offener Fragen und Verteilung weiterer Aufgaben:**
 
   - Für das Plakat wird gemeinsam ein Bild von Alexander von Humboldt ausgewählt
-  - In Grundzügen wird das Plakatdesign entworfen; mit der weiteren graphischen Arbeit wird Anna-Lena Stabentheiner beauftragt
+  - In Grundzügen wird das Plakatdesign entworfen; mit der weiteren graphischen Arbeit wird Anna-Lena beauftragt
   - Als Kurzmotto der Ausstellung wird beschlossen: „Humboldt [2.0]: Forscher – Blogger - Globetrotter“
-  - Der Homepage-Entwurf soll bis zum Freitag den 4.Mai von Lukas Voit vorbereitet werden
+  - Der Homepage-Entwurf soll bis zum Freitag den 4.Mai von Lukas vorbereitet werden
   - Als Teil der Vermarktung werden kurze Twitter-Postings von Alexander von Humboldt konzipiert, dazu sollen sich die Gruppenmitglieder mögliche Postings überlegen 
-  - Malte Wulf wird mit Peter Nestepny den Grundriss der Ausstellung in digitale Form umsetzen 
+  - Malte wird mit Peter den Grundriss der Ausstellung in digitale Form umsetzen 
 
 
 2.	**Ende der Sitzung und Beschließung der nächsten Sitzung**:
