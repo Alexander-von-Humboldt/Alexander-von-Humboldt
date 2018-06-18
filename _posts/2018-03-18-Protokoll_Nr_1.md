@@ -7,69 +7,37 @@ bigimg: \img\Projekt_pictures\Palma_de_cera.JPG
 
 image: \img\Projekt_pictures\Humboldt_avatar.JPG
 ---
-**Audiovisuelle Medien- Transkription Sitzung 1(14.03.2018)**
+**Audiovisuelle Medien- Protokoll der Sitzung Nr. 1(14.03.2018)**
 
-- Übergreifender Kernpunkt der Lehrveranstaltung/Zielstellung bei Themenfindung: Aufbruch in neue Zeiten
+**1.	Die Wahl des Vorsitzes und des Protokollführers**
 
+ - Als Vorsitz und Vertreter nach Außen wird einstimmig Peter Nestepny gewählt. Die Wort- und Protokollführung übernimmt Lukas Voit. 
 
-**1. Punkt: Wahl Ansprechpartner/Chef der Gruppe sowie Wortführung sowie Protokollführung im Treffen:**
+**2.	Themenfindung für das Projekt**
 
- - Peter (Chef/ Vertretung nach außen/ Protokoll)
- 	  
- - Lukas (Wortführung/ Protokoll)
+ - Folgende Themenvorschläge werden eingebracht: 
+    - Weltwirtschaftskrise 1929 von Lukas Voit; dieser Vorschlag wird von der Mehrheit zurückgewiesen, da in der Retrospektive die Weltwirtschaftskrise das übergreifende Thema der Lehrveranstaltung „Aufbruch in neue Zeiten“ nicht widerspiegelt, vielmehr ist es bei der Krise von einem Abrutschen ins Schlechtere zu sprechen.  
+    - Tod Kaiser Maximilians I. 1519 und die Thronfolge von Kaiser Karl V. von Malte Wulf; dieser Vorschlag wird von der Mehrheit zurückgewiesen, da die Art und Weise der Visualisierung und der Präsentation nicht ganz klar ist. Auch ist es ungewiss, ob sich genug Interessenten aus dem nichtwissenschaftlichen Umfeld zusammenfinden würden. 
+    - Margaret Thatcher und die politisch-ökonomische Wende in Großbritannien von Anna-Lena Stabentheiner; dieser Vorschlag wird von der Mehrheit zurückgewiesen, da jene politisch-ökonomische Wende das übergreifende Thema der Lehrveranstaltung „Aufbruch in neue Zeiten“ nicht widerspiegeln würde. 
+    - Vertreibung der Roten Khmer und das Ende der Revolution in Kambodscha von Anna-Lena Stabentheiner; dieser Vorschlag wird von der Mehrheit zurückgewiesen, da das Thema für mitteleuropäisches Publikum im geringen Fokus steht und dadurch könnte sich die Suche nach den potentiellen Sponsoren als schwierig erweisen. 
+    - Eroberung Jerusalems 1099 und die wirtschaftlichen, religiösen und wissenschaftlichen Auswirkungen auf Europa von Bernhard Huber; dieser Vorschlag wird von der Mehrheit zurückgewiesen, da die Frage der Visualisierung und des Quellenmaterials nicht geklärt werden kann. 
+    - Solferino 1859 und der Beginn der Konstitutionalisierung von Bernhard Huber, dieser Vorschlag wird von der Mehrheit zurückgewiesen, da die audiovisuelle Umsetzung nicht eindeutig ist. 
+    - Tod Kronprinz Rudolfs 1889 von Peter Nestepny; dieser Vorschlag wird von der Mehrheit zurückgewiesen, da die Frage nach dem qualitativen Quellenmaterial nicht geklärt werden kann. 
+    - Alexander von Humboldt (1769 – 1859) und seine wissenschaftliche Reisetätigkeit; dieser Vorschlag wird von der Mehrheit vorzeitig als durchführbar beschlossen.
 
+**3.	Überlegungen zum Zielpublikum, zu Methoden der Visualisierung, sowie zu möglichen Inhalten**
 
-**2. Punkt: Themenfindung:**
- 
- - Vorschläge für Themen: 
- - Weltwirtschaftskrise (Lukas) --> gestrichen, da es als nicht positiv genug angesehen wurde/ aus der Retrospektive kein Aufbruch in neue Zeiten, sondern ein Abrutschen in schlechtere.  (Auf Wirtschaftskrise erfolgt Aufstieg der Nationalsozialisten? Eher geeignet für Gedenkveranstaltungen und Symposien) 
+ - Es wird beschlossen, dass eine thematische Ausstellung nur ein Teil des Projekts ausmachen kann. Desweiteren ist es wichtig, nicht nur wissenschaftliches Publikum, sondern auch interessierte Laien, anzusprechen. Ein weiterer Vorschlag für einen Bestandteil des Projekts ist es, Workshops mit Schulklassen zu organisieren und somit auch das jüngere Publikum miteinzubeziehen. Es wird auch die Wichtigkeit der sozialen Medien, als Kontaktkanäle, besprochen. Peter Nestepny stellt den Ansatz vor, eine Woche aus dem Leben einer Persönlichkeit mittels „Twitter-Postings“ zu rekonstruieren. Dieser Vorschlag wird von der Mehrheit positiv angenommen, dabei weist Malte Wulf auf die Tatsache hin, dass je weiter in der Vergangenheit eine solche Persönlichkeit gelebt hat, umso spannender kann die Umsetzung einer solchen Nutzung von Twitter sein. Besonders interessant ist dabei der Gegensatz von moderner Technik und in der Vormoderne lebenden Akteure. Auch wird auf die Dringlichkeit einer Homepage als Bestandteil des Projekts hingewiesen, dadurch wird eine gewisse Nachhaltigkeit erzielt. Eine solche Plattform kann von Wissensbeiträgen, Visualisierungen mittels Zeitstrahl oder interaktiven Karten Gebrauch machen. Weitere Vorschläge zielen auf die alternativen Möglichkeiten der Präsentation (Festakt, Radiothemenabend, Vortragsreihe, Dokumentation), sowie auf die Internationalisierung des Projekts ab. 
 
- - 1519 Tod Maximilian + Karl Kaiser (Malte) (Epochenwechsel: Ende Mittelalter/ Anfang Neuzeit? gestrichen, da die Visualisierung (eventuell Serie) schwer gefallen wäre und man sich in der Gruppe nicht sicher war, ob sich genug Interessenten aus dem nichtwissenschaftlichen Umfeld zusammenfinden würden. Ist dies ein in der Bevölkerung wahrgenommener Epochenwechsel?
+**4.	Auswahl des Themas**
 
- - Margret Thatcher (Anna-Lena): Politisch ökonomische Wende in Großbritannien. ? Problematik ob es sich dabei um eine positive Wende handelt. 
+Die finale Entscheidung fällt auf das Thema: „Alexander von Humboldt (1769 – 1859) und seine wissenschaftliche Reisetätigkeit“
+Als entscheidende Faktoren erwiesen sich: 
 
- - Queen Victoria (Anna Lena):
+ - Die Fülle an vorhandenen Quellenmaterial (Tagebücher, Reiseberichte und Karten)
+ - Mögliche Unterstützung seitens internationaler Institutionen (Wissenschaftsministerien mehrerer Länder, Humboldt Foundation, Naturhistorische Museen, usw); Humboldts Reisetätigkeit hatte einen stark internationalen Aspekt
 
-     + Vertreibung der Roten Khmer: Ende der Revolution in Kambodscha. (Anna-Lena):     Frage der Zielgruppe: 
-              
- - Kambodscha wohl für Mitteleuropäer nicht stark im Fokus/ fehlende Geldgeber?
+**5.	Ende der Sitzung und Beschließung der nächsten Sitzung**
 
- - James Watt: Held der Technik (Anna Lena)
-
- - 1099 Eroberung Jerusalem (Bernhard): Wirtschaftlich, religiös und wissenschaftlich für Europa bedeutend --> Frage der **Visualisierung** und ob genug Material schnell einzusehen wäre. 
-
- - Solferino(1859) Faktischer Beginn der Konstitutionellen Öffnung (Bernhard): Das Wendejahr 1867 mit dem österreichisch/ ungarischen Ausgleich ist bedeutender als die Schlacht.
-
- - Frauenwahlrecht 1918 (Peter/ Anna Lena): 
-
- - Andreas Hofer (Peter): Wirklich Aufbruch in neue Zeiten? 
-
- - Revolutionen im 20 h. (Peter): Ausrufung der Volksrepublik China/ Ende der Revolution auf Kuba/ Islamische Revolution/ Vertreibung der Roten Khmer/  Fall des Eisernen Vorhangs (samtene Revolution etc.) 
-
- - Tod Kronprinz Rudolf (Peter) --> Frage nach dem qualitativen Quellenmaterial: Mehr als nur Vermutungen und Verschwörungstheorien. 
-
- - Alexander von Humboldt (Peter): Fokus auf seine Reisen und wissenschaftliche Tätigkeit
-
-
-**3. Punkt: Erste Überlegungen zum Zielpublikum (Wer soll es kaufen?) und zu Methoden der Visualisierung und möglichen Inhalten:**
-	  
- - In der Gruppe wurde entschieden, dass eine Ausstellung -wenn überhaupt- nur ein Teil des Projekts sein kann
- - Zielsetzung nicht nur wissenschaftliches Publikum anzusprechen, sondern ebenfalls interessierte Laien (eventuell Workshops mit Schulklassen als Bestandteil des Projekts)
- - Vorschlag (Peter): Soziale Medien mit einzubeziehen. Beispielsweise die Re-konstruktion einer Woche aus dem Leben einer Person mittels Twitter-	Postings oder Instragram
-				   
- - Wichtiger Hinweis (Malte): Je weiter weg von modernen Zeiten diese Person gelebt hat, umso spannender ist die Umsetzung einer solchen Nutzung von Twitter (Gegensatz moderne Technik/ in der Vormoderne lebende Akteure)
- 
- - Funktioniert nur mit ausreichend persönlichen Materialien
-        
-    * Homepage als Bestandteil des Projekts, um eine gewisse Nachhaltigkeit zu erzielen (Inhalt: Wissensbeiträge, Visualisierung mittels Zeitstrahl/ Karten usw.) 
-    * Idee das Projekt international zu gestalten (Mehrere Länder miteinbeziehen).
-    *  Weitere mögliche Bestandteile: Festakt, Radiothemenabend, Vortragsreihe, Dokumentation
-
-**4. Punkt 4: Auswahl Thema:** 
-  
- * Finale Entscheidung fällt auf Alexander von Humboldt 
- * Begründung: Zahlreich vorhandenes Material: Tagebücher, Reiseberichte und online verfügbar (Peter)
-  * Vorhandene Unterstützung: Wissenschaftsministerien (mehrere Länder durch Humboldts Reisen z.b. Ecuador)/ Humboldt Foundation (breit vernetzt, z.B. Volkswagenstiftung, Humboldt Network) --> **stark internationaler Aspekt seiner Tätigkeit** (Malte, Peter)
-
-* Problematischer Einwand: Genderaspekt (Lukas): Humboldt als weißer, reicher Wissenschaftler. Eventuell ein Verliererthema? --> ```wird verworfen```
+Die Sitzung wird beendet und gleichzeitig wird der Termin der nächsten Sitzung auf den 21. März 2018 beschlossen. Bis dahin haben die Gruppenmitglieder konkrete Projektvorschläge für das Thema „Alexander von Humboldt (1769 – 1859) und seine wissenschaftliche Reisetätigkeit“ zu erarbeiten und diese bei der 2. Sitzung zu präsentieren.
 
