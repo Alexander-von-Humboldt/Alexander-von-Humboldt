@@ -2,10 +2,8 @@
 layout: post
 title: Protokoll der 1. Sitzung
 subtitle: Themenfindung
-
-bigimg: \img\Projekt_pictures\Palma_de_cera.JPG
-
 image: \img\Projekt_pictures\Humboldt_avatar.JPG
+bigimg: \img\Projekt_pictures\Palma_de_cera.JPG
 ---
 **Audiovisuelle Medien- Protokoll der Sitzung Nr. 1(14.03.2018)**
 

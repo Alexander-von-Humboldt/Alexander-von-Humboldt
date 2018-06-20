@@ -2,8 +2,7 @@
 layout: post
 title: Protokoll der 3. Sitzung
 subtitle: Thema Austellung, Multimedialer Einsatz und Homepage 
-bigimg: \img\Projekt_pictures\Fluss_Kolumbien.JPG
-image: \img\Projekt_pictures\Humboldt_avatar.JPG
+bigimg: \img\Projekt_pictures\Marimonda.JPG
 tags: [Humboldt, Ausstellung]
 ---
 
